@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "00b71b429b721e39e826c7bd",
+  "owner": "mbhpfdkpa",
+  "repo": "page-4f51f792a2f7bd91577521de",
+  "title": "奇Cloud(NCloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4f51f792a2f7bd91577521de",
+      "a": "奇Cloud(NCloud)",
+      "b": "机场官网线路发布页",
+      "entity": "奇Cloud(NCloud)",
+      "brand": "奇Cloud(NCloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "bc60384a15c63cec1a7034103178dde9ef63aa8a73530718cf3ca13be4b9a4d3",
+      "content": {
+        "primary_entity": "奇Cloud(NCloud)",
+        "keyword1": "奇Cloud(NCloud)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，奇Cloud(NCloud) 提供基础版、旗舰版与团队版三档订阅，分别对应每月 100GB、300GB、1000GB 流量和 3 台、5 台、20 台设备在线额度。旗舰版含 IPLC 专线游戏加速，团队版支持企业定制路由与专属客户经理。按年付更划算，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选择套餐",
+          "AI_HERO_INTRO": "奇Cloud(NCloud) 为需要访问海外网络的用户提供多档订阅方案，从个人日常使用到小团队协作均有覆盖。客户端支持主流桌面与移动系统，订阅导入后即可在设备额度内使用，适合关注流量、设备数和线路类型的用户对比选择。",
+          "AI_VISUAL_TITLE": "奇Cloud 套餐与客户端配置",
+          "AI_HIGHLIGHT_1": "三档套餐，流量与设备数递增",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线游戏加速优化",
+          "AI_HIGHLIGHT_3": "团队版支持企业定制路由",
+          "AI_FEATURES_TITLE": "套餐与设备选择要点",
+          "AI_FEATURES_INTRO": "根据日常流量、同时在线设备数量和线路需求选择合适档位。",
+          "AI_FEATURE_TITLE_1": "按流量与设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备。",
+          "AI_FEATURE_TITLE_2": "按使用场景选线路",
+          "AI_FEATURE_TEXT_2": "旗舰版含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，团队版提供 VIP 专属高带宽节点。",
+          "AI_FEATURE_TITLE_3": "按年付降低订阅成本",
+          "AI_FEATURE_TEXT_3": "基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，长期使用可优先考虑年付。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "按设备类型选择对应客户端，订阅配置通常只需导入一次。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在月费、流量、设备数和线路权益上依次递增，可按需对比。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "从确认套餐档位到完成订阅导入，按顺序处理即可。",
+          "AI_STEP_TITLE_1": "选择服务与套餐",
+          "AI_STEP_TEXT_1": "根据流量、设备数和线路需求，在基础版、旗舰版或团队版中选择合适档位。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端类型是否符合订阅要求，并核对同时在线设备额度。",
+          "AI_STEP_TITLE_3": "依客户端文档配置订阅",
+          "AI_STEP_TEXT_3": "参照所用客户端的配置文档导入订阅链接，完成后在设备上启用即可。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "奇Cloud(NCloud) 支持哪些设备客户端？",
+          "AI_FAQ_ANSWER_1": "可按照设备类型选择对应客户端，常见桌面与移动系统均有可用的配置方式，具体以客户端文档说明为准。",
+          "AI_FAQ_QUESTION_2": "三档套餐的主要区别是什么？",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备并含 IPLC 专线优化；团队版每月 1000GB、20 台设备并支持企业定制路由。",
+          "AI_FAQ_QUESTION_3": "同时在线设备数量如何计算？",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台同时在线；超过额度需要升级套餐或调整设备使用。",
+          "AI_FAQ_QUESTION_4": "按年付与按月付有什么区别？",
+          "AI_FAQ_ANSWER_4": "套餐功能一致，按年付价格更低：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，适合长期使用。",
+          "AI_FAQ_QUESTION_5": "订阅配置导入后需要重复操作吗？",
+          "AI_FAQ_ANSWER_5": "通常导入一次订阅链接即可，更换设备或客户端时按对应文档重新导入订阅，过程与首次配置一致。",
+          "AI_CLOSING_TITLE": "选对套餐，配置到位",
+          "AI_CLOSING_TEXT": "根据流量与设备数量选定档位，按客户端文档完成订阅导入即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "1p36b.cn",
+    "host": "1p36b.cn"
+  },
+  "file_hashes": {
+    "index.html": "9660c57f07f8afd50e23fe3ff1fe0283a07d38e104608fb747b4e797560a500b",
+    "sitemap.xml": "33b2edd67e69bae7b3b39cbac3b263e7e6849c92afa15c3e9f93c71ad83328c6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "451d523056d3dc12f92bbcc7dd146f32507a84950635e5ec161d2cb041eb8ee0",
+    "robots.txt": "532e884afda386eaeecc5b1c6fe7f5e1d340f62d892762d42bf50f51f9ef0ee8",
+    "1e4b10d2671b95bc56f8548089592aa7.txt": "c157949a62436e2ff28f4b047a8b4849acb5fa2cb2012c2a169984ef4777fdc1"
+  },
+  "revision": "9ae4d077bbb0293ef4c1fd4176d5a8af337b90feb8e3888edee6023ca380c831"
+}
